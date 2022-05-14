@@ -1,13 +1,13 @@
-package uz.pdp.bikereservationservice;
+package uz.pdp.locationservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BikeReservationServiceApplication {
+public class LocationServiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(BikeReservationServiceApplication.class, args);
+        SpringApplication.run(LocationServiceApplication.class, args);
     }
 
 }
